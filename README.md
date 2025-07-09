@@ -7,4 +7,5 @@
      2) pip install pymysql
      3) pip install mysqlclient
 
-
+- Vía CMD, posicionarse en la carpeta donde se encuentra el proyecto
+- Para iniciar servidor --> py manage.py runserver
